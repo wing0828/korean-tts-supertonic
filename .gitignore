@@ -1,0 +1,4 @@
+.venv-supertonic/
+__pycache__/
+*.wav
+*.mp3
